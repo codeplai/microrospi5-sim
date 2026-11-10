@@ -1,0 +1,16 @@
+# medios y comprimidos (no van al repo)
+*.mp4
+*.wav
+*.zip
+# material docente (respuestas del reto) y archivos del curso ajenos
+docs/rc1/RC1_referencia_docente.md
+RC0_*.docx
+~$*
+# artefactos
+.ruff_cache/
+__pycache__/
+*.pyc
+build/
+install/
+log/
+docs/rc1/figuras/cuadrado_odom_vs_real.png
